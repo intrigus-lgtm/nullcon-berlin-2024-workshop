@@ -1,7 +1,5 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
-
-  "postCreateCommand": "gh extensions install github/gh-codeql && gh codeql set-version v2.16.3 && gh codeql install-stub /home/codespace/.local/bin && git submodule init && git submodule update --recursive",
+  "postCreateCommand": "gh extensions install github/gh-codeql && gh codeql set-version v2.16.3 && gh codeql install-stub /home/vscode/.local/bin && git submodule init && git submodule update --recursive",
   "hostRequirements": {
     "memory": "8gb"
   },
@@ -17,7 +15,7 @@
       ],
       "settings": {
         "codeQL.runningQueries.memory": 4096,
-        "codeQL.cli.executablePath": "/home/codespace/.local/bin/codeql"
+        "codeQL.cli.executablePath": "/home/vscode/.local/bin/codeql"
       }
     }
   }
