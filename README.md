@@ -1,6 +1,6 @@
 # Nullcon Berlin - CodeQL Workshop Setup Instructions
 
-**Update:** The workshop presentation slides are now ready for download: [nullcon-4-codeql-workshop.pdf](https://github.com/intrigus-lgtm/nullcon-berlin-2024-workshop/blob/main/nullcon-24-codeql-workshop.pdf)
+Preliminary workshop presentation slides are now ready for download: [nullcon-24-codeql-workshop.pdf](https://github.com/intrigus-lgtm/nullcon-berlin-2024-workshop/blob/main/nullcon-24-codeql-workshop.pdf)
 
 ----
 
