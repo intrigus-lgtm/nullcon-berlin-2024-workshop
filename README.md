@@ -81,7 +81,7 @@ In case you see errors such as:
 
 1. Make sure you have the workspace `vscode-codeql-starter.code-workspace` open in VS Code.
 2. Go To the CodeQL View
-3. Click on "Choose Database from Archive" and select the `workshop.zip` file in the root of the repository.
+3. Click on "Choose Database from Archive" and select the `workshop_db.zip` file in the root of the repository.
 
 <img src="images/select-codeql-db.png"  width="380" alt="Screenshot: Select CodeQL DB from archive">
 
