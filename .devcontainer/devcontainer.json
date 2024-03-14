@@ -1,7 +1,7 @@
 {
   "postCreateCommand": "git submodule init && git submodule update --recursive",
   "hostRequirements": {
-    "memory": "8gb"
+    "memory": "16gb"
   },
   "customizations": {
     "codespaces": {
@@ -12,10 +12,7 @@
         "github.vscode-codeql",
         "slevesque.vscode-zipexplorer",
         "GitHub.copilot"
-      ],
-      "settings": {
-        "codeQL.runningQueries.memory": 4096
-      }
+      ]
     }
   }
 }
